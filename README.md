@@ -1,4 +1,4 @@
-## Hi there. I'm Oguzhan...👋
+## Hi there. I'm Oğuzhan...👋 
 
 
 - 🔭 I’m currently working on Machine Learning
