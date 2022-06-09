@@ -8,11 +8,8 @@
 
 ## 👨👩 Social
 
-[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:steadysam32@gmail.com)
-[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kdr-drn/)
-[![website](https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white)](https://medium.com/@steadysam32)
-[![website](https://img.shields.io/badge/%20-kaggle-blue?&style=for-the-badge&logoColor=white)](https://www.kaggle.com/kadirduran/account?isEditing=False)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KdrDrn" alt="KdrDrn" /> </p>
+[![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:uksaloguzhan@gmail.com)
+[![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uksaloguzhan/)
 
 
 # 💻 Data Visualization 
